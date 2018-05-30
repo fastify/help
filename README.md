@@ -11,3 +11,7 @@ Need help with Fastify? You've come to the right place!<br>
 
 If you would prefer to get help via live chat rather than the issue tracker in
 this repository, you can try [Gitter](https://gitter.im/fastify)!
+
+#### Unofficial stackoverflow tag
+
+Follow fastify tag on [stackoverflow](https://stackoverflow.com/questions/tagged/fastify).
