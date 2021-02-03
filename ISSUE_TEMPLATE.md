@@ -1,10 +1,10 @@
-#### You have already researched for similiar issues?
+#### You have already researched for similar issues?
 It's not uncommon that somebody already opened an issue or in best case it's already fixed but not merged. That's the reason why you should [search](https://github.com/fastify/fastify/issues) at first before submitting a new one.
 
-#### What are you trying to achieve or the steps to reproduce?
+#### What are you trying to achieve, or the steps to reproduce?
 
-Describe your issue here, include as much detail as neccessary to reproduce the issue
-or implement a missing functionality. If you are reporting a bug, you will get faster response
+Describe your issue here, include as many details as necessary to reproduce the issue, 
+or implement a missing functionality. If you are reporting a bug, you will get a faster response 
 if you submit a pull request with a failing test.
 
 ```js
