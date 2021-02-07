@@ -10,7 +10,7 @@ Need help with Fastify? You've come to the right place!<br>
 #### Chat Resources
 
 If you would prefer to get help via live chat rather than the issue tracker in
-this repository, you can try [Gitter](https://gitter.im/fastify)!
+this repository, you can try our [Discord community](https://discord.gg/D3FZYPy)!
 
 #### Unofficial stackoverflow tag
 
