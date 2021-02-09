@@ -1,6 +1,6 @@
 ---
 name: Help
-about: If you have any questions regarding fastify this is the right place to ask
+about: If you have any questions regarding Fastify this is the right place to ask
 title: Help
 labels: help wanted
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-Before you submit an a question we recommend you first look into our  repo's issue section to see if your question have already been answered, we don't recommend duplicates.
+Before you submit a question we recommend you first look at our issue section to see if your question have already been answered.
 
 
 **Please read this entire template before posting any issue. If you ignore these instructions
