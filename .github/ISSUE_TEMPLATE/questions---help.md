@@ -26,7 +26,7 @@ a clear , consise and brief decription of your question
 
 
 
-If possible add a link to sample codes for error reproduction 
+If possible add a link to sample codes for error reproduction (github or replit)
 
 <!--
  [source_name](url here)
