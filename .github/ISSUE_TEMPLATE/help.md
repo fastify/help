@@ -24,7 +24,8 @@ a clear and concise  decription of your question
 // example codes if any
 ````
 
-if possible add a link to sample codes for error reproduction 
+
+If possible add a link to sample codes for error reproduction (github or replit)
 
 <!--
  [source_name](url here)
