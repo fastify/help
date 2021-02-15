@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-Before you submit a question we recommend you first look at our issue section to see if your question have already been answered.
+Before you submit a question we recommend you first look at our issue section here https://github.com/fastify/help/issues  to see if your question have already been answered.
 
 **Please read this entire template before posting any issue. If you ignore these instructions
 and post an issue here that does not follow the instructions, your issue might be closed,
