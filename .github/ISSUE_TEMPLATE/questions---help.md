@@ -17,7 +17,7 @@ locked, and assigned the `missing discussion` label.**
 
 ## 💬  Question here 
 
-a clear , consise and brief decription of your question
+a clear and concise decription of your question
 
 ```js
 // example codes if any
