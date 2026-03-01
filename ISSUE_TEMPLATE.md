@@ -3,8 +3,8 @@ It's not uncommon that somebody already opened an issue or in best case it's alr
 
 #### What are you trying to achieve, or the steps to reproduce?
 
-Describe your issue here, include as many details as necessary to reproduce the issue, 
-or implement a missing functionality. If you are reporting a bug, you will get a faster response 
+Describe your issue here, include as many details as necessary to reproduce the issue,
+or implement a missing functionality. If you are reporting a bug, you will get a faster response
 if you submit a pull request with a failing test.
 
 ```js
