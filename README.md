@@ -1,5 +1,10 @@
-<div align="center">
-  <img src="https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg" width="650" height="auto"/>
+<div align="center"> <a href="https://fastify.dev/">
+    <img
+      src="https://raw.githubusercontent.com/fastify/graphics/HEAD/fastify-landscape-outlined.svg"
+      width="650"
+      height="auto"
+    />
+  </a>
 </div>
 
 
