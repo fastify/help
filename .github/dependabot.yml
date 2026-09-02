@@ -1,0 +1,20 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    commit-message:
+      include: "scope"
+      prefix: "ci"
+    schedule:
+      interval: "monthly"
+    cooldown:
+      default-days: 7
+    allow:
+      - dependency-name: "*"
+        update-types:
+          - "version-update:semver-major"
+    open-pull-requests-limit: 10
+    groups:
+      fastify-owned:
+        patterns:
+          - "fastify/*"
